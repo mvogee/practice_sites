@@ -1,0 +1,19 @@
+/* Color Theme Swatches in Hex
+.color-theme_3b9c96964ebea9b56369fb9e9389631a-1-hex { color: #064469; }
+.color-theme_3b9c96964ebea9b56369fb9e9389631a-2-hex { color: #F2BD1D; }
+.color-theme_3b9c96964ebea9b56369fb9e9389631a-3-hex { color: #9BCAC0; }
+.color-theme_3b9c96964ebea9b56369fb9e9389631a-4-hex { color: #DD5F49; }
+.color-theme_3b9c96964ebea9b56369fb9e9389631a-5-hex { color: #F1B2A9; }
+*/
+
+body {
+  margin: 0 auto;
+}
+
+.home_splash {
+  background-color: #9BCAC0;
+  text-align: center;
+}
+.home_splash > h1 {
+  margin-top: 0;
+}
