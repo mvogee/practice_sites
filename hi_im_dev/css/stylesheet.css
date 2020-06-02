@@ -16,4 +16,9 @@ body {
 }
 .home_splash > h1 {
   margin-top: 0;
+  margin-bottom: 5px;
+}
+
+.home_spash > p {
+  font-family: arial, sans-serif;
 }
